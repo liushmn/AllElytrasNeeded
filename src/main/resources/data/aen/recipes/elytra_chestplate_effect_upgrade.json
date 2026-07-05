@@ -1,0 +1,12 @@
+{
+  "type": "aen:elytra_upgrade",
+  "addition": {
+    "tag": "minecraft:potions"
+  },
+  "base": {
+    "tag": "aen:elytra_compatible_chestplates"
+  },
+  "template": {
+    "item": "aen:elytra_effect_upgrade_smithing_template"
+  }
+}

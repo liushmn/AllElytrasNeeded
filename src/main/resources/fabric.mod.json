@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "aen",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "${mod_desc}",
+  "authors": [
+    "2Bad4Minecraft"
+  ],
+  "contact": {
+
+  },
+  "license": "${mod_license}",
+  "icon": "assets/aen/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.crafty.aen.AllElytrasNeeded"
+    ],
+    "client": [
+    ]
+  },
+  "mixins": [
+    "aen.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

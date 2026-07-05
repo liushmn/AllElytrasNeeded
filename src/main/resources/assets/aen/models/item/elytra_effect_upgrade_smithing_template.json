@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aen:item/elytra_effect_upgrade_smithing_template"
+  }
+}

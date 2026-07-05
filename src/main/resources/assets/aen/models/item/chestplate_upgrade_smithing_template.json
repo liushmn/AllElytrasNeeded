@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aen:item/chestplate_upgrade_smithing_template"
+  }
+}

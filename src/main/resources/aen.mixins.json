@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "package": "de.crafty.aen.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "world.entity.MixinEntity",
+    "world.entity.MixinLivingEntity",
+    "world.entity.player.MixinPlayer",
+    "world.item.MixinItem",
+    "world.item.MixinItemStack",
+    "world.level.levelgen.structure.structures.MixinEndCityPiece",
+    "world.level.levelgen.structure.structures.MixinEndCityPieces",
+    "world.level.levelgen.structure.structures.TemplateStructurePieceAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "client.MixinMinecraft",
+    "client.color.item.MixinItemColors",
+    "client.gui.screen.inventory.MixinSmithingScreen",
+    "client.player.MixinLocalPlayer",
+    "client.renderer.entity.MixinArmorStandRenderer",
+    "client.renderer.entity.MixinHumanoidMobRenderer",
+    "client.renderer.entity.layers.MixinElytraLayer",
+    "client.renderer.entity.player.MixinPlayerRenderer",
+    "client.renderer.item.MixinItemProperties",
+    "client.resources.model.MixinModelBakery"
+  ]
+}

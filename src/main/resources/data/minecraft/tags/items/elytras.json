@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:elytra",
+    "aen:iron_elytra",
+    "aen:golden_elytra",
+    "aen:diamond_elytra",
+    "aen:netherite_elytra"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "aen:elytra_merge",
+  "addition": {
+    "tag": "minecraft:elytras"
+  },
+  "base": {
+    "tag": "aen:elytra_compatible_chestplates"
+  },
+  "template": {
+    "item": "aen:chestplate_upgrade_smithing_template"
+  }
+}

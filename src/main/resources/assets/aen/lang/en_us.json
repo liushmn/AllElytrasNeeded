@@ -1,0 +1,38 @@
+{
+  "item.aen.iron_elytra": "Iron Elytra",
+  "item.aen.golden_elytra": "Golden Elytra",
+  "item.aen.diamond_elytra": "Diamond Elytra",
+  "item.aen.netherite_elytra": "Netherite Elytra",
+
+  "item.minecraft.leather_chestplate.elytra": "Leather Elytra-Chestplate",
+  "item.minecraft.chainmail_chestplate.elytra": "Chainmail Elytra-Chestplate",
+  "item.minecraft.iron_chestplate.elytra": "Iron Elytra-Chestplate",
+  "item.minecraft.golden_chestplate.elytra": "Golden Elytra-Chestplate",
+  "item.minecraft.diamond_chestplate.elytra": "Diamond Elytra-Chestplate",
+  "item.minecraft.netherite_chestplate.elytra": "Netherite Elytra-Chestplate",
+
+  "item.aen.smithing_template.ingredients": "Ingredients:",
+  "item.aen.smithing_template.elytra_effect_upgrade.additions_slot_description": "Add a Potion",
+  "item.aen.smithing_template.elytra_effect_upgrade.applies_to": "Elytra",
+  "item.aen.smithing_template.elytra_effect_upgrade.base_slot_description": "Add an Elytra",
+  "item.aen.smithing_template.elytra_effect_upgrade.ingredients": "Any Potion",
+  "upgrade.aen.elytra_effect_upgrade": "Potion Upgrade",
+
+  "item.aen.smithing_template.chestplate_upgrade.additions_slot_description": "Add an Elytra",
+  "item.aen.smithing_template.chestplate_upgrade.applies_to": "Chestplate",
+  "item.aen.smithing_template.chestplate_upgrade.base_slot_description": "Add a Chestplate",
+  "item.aen.smithing_template.chestplate_upgrade.ingredients": "Any Elytra",
+  "upgrade.aen.chestplate_upgrade": "Chestplate Upgrade",
+
+  "aen.effect_slot.prefix": "Effect Slot",
+  "aen.effect_slot.empty": "Empty",
+  "aen.command.reloaded": "Reloaded!",
+
+  "aen.elytra_chestplate.tier": "Tier",
+  "aen.elytra_chestplate.tier.vanilla": "Vanilla",
+  "aen.elytra_chestplate.tier.iron": "Iron",
+  "aen.elytra_chestplate.tier.gold": "Gold",
+  "aen.elytra_chestplate.tier.diamond": "Diamond",
+  "aen.elytra_chestplate.tier.netherite": "Netherite"
+
+}
